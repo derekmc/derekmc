@@ -1,4 +1,4 @@
-### Hi there 👋
+[Economics Now Blog](derekmc.github.io/econ)
 
 <!--
 **derekmc/derekmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
